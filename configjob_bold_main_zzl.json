@@ -1,0 +1,11 @@
+{
+    "name": "BoldCalcAll",
+    "typename": "BatchJob",
+    "config": [
+        {
+            "name": "CalcAttr_zzl",
+            "typename": "BatchJob",
+            "config": "configjob_bold_calc_attr_zzl.json"
+        }
+    ]
+}

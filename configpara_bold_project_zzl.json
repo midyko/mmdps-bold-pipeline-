@@ -1,0 +1,9 @@
+{
+    "name": "GenBoldNet",
+    "MainFolder": "F:/zzl/nii_data/DataProcessing/BOLD",
+    "FolderList": "F:/zzl/nii_data/small_namelist5.txt",
+    "Second": true,
+    "SecondList": "F:/zzl/nii_data/atlas_list.txt",
+    "JobConfig": "F:/zzl/mmdps_git/pipeline/BOLD/configjob_bold_main.json",
+    "RunMode": "Parallel"
+}
