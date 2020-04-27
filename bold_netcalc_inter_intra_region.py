@@ -32,8 +32,6 @@ ATTR_PARA_COMPUTE_THRESHOLD={
 	"brodmann_lrce":1457,
 	"bnatlas":242,
 	"aicha":200
-
-	
 }
 
 OUTFOLDER = 'bold_net_attr_zzl'
